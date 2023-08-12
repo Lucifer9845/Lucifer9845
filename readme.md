@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://instagram.com/r_o_c_k_o_?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/r_o_c_k_o_?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" height="30" width="40" /></a>
+<a href="https://instagram.com/r_o_c_k_o_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_o_c_k_o_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/lucifer9845/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/lucifer9845/" height="30" width="40" /></a>
 </p>
 
