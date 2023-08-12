@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohit Baroliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer9845&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer9845" /> </p>
-
 - 🌱 I’m currently learning **ReactJS, front end**
+
+- 🤝 I’m looking for help with **personal portfolio**
+
+- 📫 How to reach me **mohit.baroliya23@gmail.com**
 
 - ⚡ Fun fact **I know i am very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/https://instagram.com/r_o_c_k_o_?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/r_o_c_k_o_?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/lucifer9845/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/lucifer9845/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
