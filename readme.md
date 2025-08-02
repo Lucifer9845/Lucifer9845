@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohit Baroliya</h1>
 <h3 align="center">An Engineer who loves to learn</h3>
 
-- 🌱 I’m currently learning **ReactJS, front end**
+- 🌱 I’m currently learning **DSA, APIs**
 
 - 🤝 I’m looking for help with **personal portfolio**
 
 - 📫 How to reach me **mohit.baroliya23@gmail.com**
 
-- ⚡ Fun fact **I know i am very funny**
+- ⚡ Fun fact **I know how to do a walk the dog in yoyo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
