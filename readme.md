@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Baroliya</h1>
-<h3 align="center">A Student who loves to learn</h3>
+<h3 align="center">An Engineer who loves to learn</h3>
 
 - 🌱 I’m currently learning **ReactJS, front end**
 
